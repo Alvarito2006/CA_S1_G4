@@ -77,6 +77,7 @@ La IA puede automatizar tareas, acelerar procesos y servir como apoyo, pero sigu
 ## Material incluido en este repositorio
 Este repositorio puede incluir:
 - `README.md`
+- `ANEXOS (IMAGENES)`
 - `documento_planificacion.md`
 - `informe_final.md`
 - `Enlaces_videos.md` 
