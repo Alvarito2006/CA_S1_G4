@@ -11,7 +11,7 @@
 <br><br>
 
 <div align="center">
-  <h1>INFORME DE PROYECTO 1</h1>
+  <h1>INFORME FINAL DE PROYECTO 1</h1>
   <h3>"¿La IA reemplazará la ing. en ciencias y sistemas?"</h3>
   <p><b>GRUPO #4</b></p>
 </div>
