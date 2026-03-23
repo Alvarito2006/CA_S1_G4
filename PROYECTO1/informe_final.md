@@ -218,7 +218,7 @@ Se logró transformar el temor al reemplazo en una visión de oportunidad, demos
 # 6. Anexos
 
 ### 6.1 Material Audiovisual
-* **Grabación de la Videoconferencia:** [Enlace a Google Drive](https://drive.google.com/file/d/1uo2kW3pkVHk8sjZ3XawMMhmQjRci_68c/view?usp=sharing)
+* **Grabación de la capacitación:** [Enlace a YouTube](https://www.youtube.com/watch?v=ctX-ToBJDrI)
 * **Presentación de Apoyo:** [Enlace de la presentacion](https://www.canva.com/design/DAHDrjdLYyY/mJf-hSoY6xEkJVqAiiCxKQ/view?utm_content=DAHDrjdLYyY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6135b9cef6)
 
 ### 6.2 Galería de Evidencias
