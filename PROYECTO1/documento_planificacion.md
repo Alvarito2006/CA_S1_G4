@@ -1,4 +1,45 @@
-# Documento de Planificación
+
+
+<div align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Usac_logo.png" width="120">
+</div>
+
+# UNIVERSIDAD DE SAN CARLOS DE GUATEMALA
+## FACULTAD DE INGENIERÍA 
+### ESCUELA DE CIENCIAS Y SISTEMAS 
+**Curso:** LABORATORIO Comunicación Asertiva
+**Sección:** A
+
+<br><br>
+
+<div align="center">
+  <h1>DOCUMENTO DE PLANIFICACIÓN DEL PROYECTO 1</h1>
+  <h3>"¿La IA reemplazará la ing. en ciencias y sistemas?"</h3>
+  <p><b>GRUPO #4</b></p>
+</div>
+
+<br><br>
+
+### Datos de los Integrantes
+| Nombre Completo | Carnet | CUI |
+| :--- | :--- | :--- |
+| Diego Otto Eduardo Rodas Aceytuno | 202505251 | 3887597710101 |
+| Alvaro Moisés Girón Morales | 202501955 | 3055401650208 |
+| Nora Anelisse Recinos Estrada | 202503920 | 3923959670101 |
+| Josselyn Gabriela Mendoza Camargo | 202000317 | 2004348880101 |
+| Hennsen Armando Rodrigo Aldana V. | 202500286 | 3030119040108 |
+| Samuel Esteban Pichillá Duartes | 202505036 | 3735407520101 |
+
+<br>
+
+### Personal Docente
+* **Ingeniero:** Herman Igor Veliz Linares
+* **Auxiliar:** Kevin Josué Santos
+
+**Fecha de entrega:** 24 de marzo de 2026
+
+---
+<br><br><br>
 
 ## Tema Elegido
 **¿La IA reemplazará la ingeniería en ciencias y sistemas?**
