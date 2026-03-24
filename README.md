@@ -14,7 +14,7 @@
 ## Integrantes
 - Alvaro Moisés Girón Morales — 202501955 — 3055401650208
 - Diego Otto Eduardo Rodas Aceytuno — 202505251 — 3887597710101
-- Nora Anelise Recinos Estrada — 202503920 — 3923959670101
+- Nora Anelisse Recinos Estrada — 202503920 — 3923959670101
 - Josselyn Gabriela Mendoza Camargo — 202000317 — 2004348880101
 - Hennsen Armando Rodrigo Aldana V. — 202500286 — 3030119040108
 - Samuel Esteban Pichillá Duartes — 202505036 — 3735407520101
