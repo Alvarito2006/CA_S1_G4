@@ -4,6 +4,7 @@
 Se realizó una entrevista a una clínica dental con el objetivo de conocer su funcionamiento, servicios y organización. La actividad fue llevada a cabo por los integrantes del grupo Alvaro, Josselyn y Diego, quienes fueron los principales encargados de realizar las preguntas y recopilar la información.
 ### Audio
 En este apartado se presenta el audio correspondiente a la primera entrevista realizada, donde se recopila la información obtenida durante la conversación.
+[entrevista1](ARCHIVOS/AUDIO-ODONTOLOGIA.mp3)
 ### Fotografía
 En este apartado se presentan las fotografías tomadas en la primera entrevista, tanto con el dentista como con la secretaria de la clínica que fue quien respondió las preguntas. 
 
@@ -16,10 +17,24 @@ En este apartado se presenta la fotografía tomada en la segunda entrevista, con
 
 ## Capturas de Trello
 En este apartado se presentan capturas de pantalla de las actividades registradas en Trello, evidenciando la organización y seguimiento de las tareas del equipo.
-![Imagen tablero Trello](ARCHIVOS/trello.png)
+![Imagen1](ARCHIVOS/trello.png)
 
 ## Capturas time.is
 En este apartado se presentan capturas de pantalla de la página Time.is, donde se evidencia la hora exacta registrada durante la realización de cada actividad.
+### Trello
+![Imagen2](ARCHIVOS/trello_istime.png)
+### Samuel
+![Imagen3](ARCHIVOS/Samuel.png)
+### Josselyn
+![Imagen4](ARCHIVOS/Josselyn.png)
+### Hensen
+![Imagen5](ARCHIVOS/Henssen.png)
+### Alvaro
+![Imagen6](ARCHIVOS/Alvaro.png)
+### Anelisse
+![Imagen7](ARCHIVOS/Anelisse.png)
+### Diego
+![Imagen8](ARCHIVOS/Diego.png)
 
 ## Enlace video de junta directiva
 En este apartado se incluye el enlace al video que muestra la dramatización de una junta directiva, buscando la manera de solucionar los problemas evidenciados en el Restaurante Don Juan.
