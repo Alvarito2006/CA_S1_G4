@@ -1,4 +1,4 @@
-# Preguntas Entrevista 1
+# Preguntas Entrevista 1: Clínica Dental
 
 ## Dinámica Diaria y Tareas
 ¿Cómo es un día típico en la clínica desde que abren hasta que cierran? <br>
@@ -34,7 +34,7 @@ Pensando en el último mes, ¿qué fue lo que más se le complicó manejar en la
 ¿Qué pasa si un odontólogo falta? <br>
 ¿Otra colega puede ver el historial del paciente o solo el encargado? <br>
 
-# Preguntas Entrevista 2
+# Preguntas Entrevista 2: Restaurante Don Juan
 
 ## Dinámica del Negocio
 ¿Cómo funciona normalmente este negocio? <br>
