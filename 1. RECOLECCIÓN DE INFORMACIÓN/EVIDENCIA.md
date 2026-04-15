@@ -12,6 +12,7 @@ En este apartado se presentan las fotografías tomadas en la primera entrevista,
 Para la entrevista 2 se escogió un restaurante, la entrevista se realizó con el fin de conocer sus servicios, atención al cliente y dinámica de trabajo. La actividad fue llevada a cabo por los integrantes del grupo Henssen, Anelisse y Samuel, quienes fueron los encargados de realizar las preguntas y recopilar la información.
 ### Audio
 A continuación, se incluye el audio de la segunda entrevista, el cual contiene los detalles y respuestas proporcionadas durante la actividad.
+[entrevista2](ARCHIVOS/AUDIO-RESTAURANTE.mp3)
 ### Fotografía
 En este apartado se presenta la fotografía tomada en la segunda entrevista, con los trabajadores que colaboraron respondiendo la entrevista.
 
