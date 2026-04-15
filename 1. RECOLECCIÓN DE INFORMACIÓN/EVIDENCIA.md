@@ -16,6 +16,7 @@ En este apartado se presenta la fotografía tomada en la segunda entrevista, con
 
 ## Capturas de Trello
 En este apartado se presentan capturas de pantalla de las actividades registradas en Trello, evidenciando la organización y seguimiento de las tareas del equipo.
+![Imagen tablero Trello](ARCHIVOS/trello.png)
 
 ## Capturas time.is
 En este apartado se presentan capturas de pantalla de la página Time.is, donde se evidencia la hora exacta registrada durante la realización de cada actividad.
