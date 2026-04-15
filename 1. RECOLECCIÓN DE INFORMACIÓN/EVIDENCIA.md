@@ -1,7 +1,7 @@
 # Evidencias
 
 ## Entrevista 1
-Se realizó una entrevista a una clínica dental con el objetivo de conocer su funcionamiento, servicios y organización. La actividad fue llevada a cabo por los integrantes del grupo Alvaro, Josseline y Diego, quienes fueron los principales encargados de realizar las preguntas y recopilar la información.
+Se realizó una entrevista a una clínica dental con el objetivo de conocer su funcionamiento, servicios y organización. La actividad fue llevada a cabo por los integrantes del grupo Alvaro, Josselyn y Diego, quienes fueron los principales encargados de realizar las preguntas y recopilar la información.
 ### Audio
 En este apartado se presenta el audio correspondiente a la primera entrevista realizada, donde se recopila la información obtenida durante la conversación.
 ### Fotografía
@@ -26,8 +26,8 @@ En este apartado se incluye el enlace al video que muestra la dramatización de 
 ## Enlace a pitches individuales
 En este apartado se presentan los pitches individuales, en los que se proponen soluciones a problemáticas identificadas en los negocios entrevistados, demostrando creatividad y análisis por parte de cada uno de los integrantes. <br>
 Samuel: https://youtube.com/shorts/rq4tW6oNIK8 <br>
-Yoselyn: https://youtu.be/KJ_9xFTIuhA <br>
+Josselyn: https://youtu.be/KJ_9xFTIuhA <br>
 Hensen: https://youtu.be/Q9WgbDEltfk?si=U4MeuNPfvXQGfx1w <br>
 Alvaro: https://youtube.com/shorts/jcT89Wm0zqE?si=_FfyAF1F9h2qZUGj <br>
-Nora: https://youtube.com/shorts/tSdqNAuTzwU?si=DuOyPEhxAa3azp6P <br>
+Anelisse: https://youtube.com/shorts/tSdqNAuTzwU?si=DuOyPEhxAa3azp6P <br>
 Diego: https://www.youtube.com/watch?v=vUQdxLtW2vw <br>
