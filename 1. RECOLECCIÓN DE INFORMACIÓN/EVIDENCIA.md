@@ -36,6 +36,8 @@ En este apartado se presentan capturas de pantalla de la página Time.is, donde 
 ![Imagen7](ARCHIVOS/Anelisse.png)
 ### Diego
 ![Imagen8](ARCHIVOS/Diego.png)
+### Hora de inicio de la grabación de la junta directiva
+![Imagen9](ARCHIVOS/Video.png)
 
 ## Enlace video de junta directiva
 En este apartado se incluye el enlace al video que muestra la dramatización de una junta directiva, buscando la manera de solucionar los problemas evidenciados en el Restaurante Don Juan.
