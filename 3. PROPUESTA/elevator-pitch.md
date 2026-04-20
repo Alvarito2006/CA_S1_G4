@@ -28,8 +28,8 @@
 * **Beneficio:** Entrega de alimentos más rápida (hasta 5 minutos antes), ahorro de recursos y mejora en la satisfacción del cliente.
 * **Enlace del video de YouTube:** https://youtube.com/shorts/jcT89Wm0zqE?si=_FfyAF1F9h2qZUGj
 
-## Nora
-* **Nombre:** Nora
+## Nora Anelisse Recinos Estrada
+* **Nombre:** Nora Anelisse Recinos Estrada
 * **Problema que aborda:** Frustración y pérdida de tiempo al intentar localizar registros médicos antiguos en archivos físicos desordenados o traspapelados.
 * **Propuesta:** Software de gestión dental integrado que permite el almacenamiento digital de historias clínicas, radiografías y seguimiento de tratamientos.
 * **Beneficio:** Seguridad de los datos mediante copias de seguridad en la nube y optimización del tiempo del personal para la atención directa al paciente.
