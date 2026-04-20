@@ -2,6 +2,7 @@
 
 ## 1. Restaurante Don Juan
 
+```mermaid
 flowchart TD
     A[Cliente llega o hace pedido] --> B[Mesero toma orden]
     B --> C[Sistema registra pedido]
@@ -21,8 +22,11 @@ flowchart TD
     O --> P[Se guarda historial]
     P --> Q[Fin]
 
+```
+
 ## 2. Clinica Dental
 
+```mermaid
   flowchart TD
     A[Paciente solicita cita] --> B[Recepcionista agenda cita en sistema]
     B --> C[Sistema guarda datos del paciente]
@@ -43,3 +47,4 @@ flowchart TD
     P --> Q[Se guarda historial clínico]
     Q --> R[Fin]
     L --> R
+```
