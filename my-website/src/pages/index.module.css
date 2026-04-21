@@ -1,0 +1,248 @@
+.page {
+  padding: 1.5rem 0 3rem;
+}
+
+.hero {
+  display: block;
+  margin-bottom: 1.5rem;
+}
+
+.heroCopy,
+.section,
+.sectionAlt {
+  background: #ffffff;
+  border: 1px solid #ddd4c8;
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+.heroCopy {
+  padding: 2rem;
+}
+
+.eyebrow {
+  color: #6b594f;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.6rem;
+  text-transform: uppercase;
+}
+
+.heroTitle {
+  font-family: Cambria, Georgia, serif;
+  font-size: clamp(2rem, 3.5vw, 3.2rem);
+  line-height: 1.1;
+  margin-bottom: 0.9rem;
+}
+
+.heroLead {
+  color: #564b45;
+  font-size: 1rem;
+  line-height: 1.65;
+  margin-bottom: 1.25rem;
+  max-width: 60ch;
+}
+
+.heroActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.primaryButton,
+.secondaryButton {
+  align-items: center;
+  border-radius: 6px;
+  display: inline-flex;
+  font-weight: 600;
+  gap: 0.4rem;
+  padding: 0.75rem 1.05rem;
+  text-decoration: none;
+  transition: background 180ms ease, border-color 180ms ease, color 180ms ease;
+}
+
+.primaryButton {
+  background: #8a4a2f;
+  border: 1px solid #8a4a2f;
+  color: #fff;
+}
+
+.secondaryButton {
+  background: #fff;
+  border: 1px solid #d7ccbf;
+  color: #5c4437;
+}
+
+.primaryButton:hover,
+.secondaryButton:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.primaryButton:hover {
+  background: #774027;
+  color: #fff;
+}
+
+.secondaryButton:hover {
+  background: #f4efe8;
+}
+
+.highlights {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.highlightCard {
+  background: #fbfaf8;
+  border: 1px solid #e0d8ce;
+  border-left: 3px solid #8a4a2f;
+  border-radius: 8px;
+  padding: 0.9rem;
+}
+
+.highlightLabel {
+  color: #77655c;
+  font-size: 0.76rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  text-transform: uppercase;
+}
+
+.highlightValue {
+  color: #2c2320;
+  font-family: Cambria, Georgia, serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.section,
+.sectionAlt {
+  margin-top: 1rem;
+  padding: 1.6rem;
+}
+
+.sectionHeader {
+  display: block;
+  margin-bottom: 1.2rem;
+}
+
+.sectionTitle {
+  font-family: Cambria, Georgia, serif;
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+.sectionLead {
+  color: #65554d;
+  line-height: 1.65;
+  margin: 0.5rem 0 0;
+  max-width: 62ch;
+}
+
+.stageGrid,
+.linkGrid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.stageCard,
+.linkCard {
+  background: #fff;
+  border: 1px solid #ddd4c8;
+  border-radius: 8px;
+  display: block;
+  padding: 1rem;
+  text-decoration: none;
+  transition: border-color 180ms ease, background 180ms ease;
+}
+
+.stageCard:hover,
+.linkCard:hover {
+  background: #fbf8f4;
+  border-color: #cdbdad;
+  text-decoration: none;
+}
+
+.cardTag {
+  color: #7b685d;
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.55rem;
+  text-transform: uppercase;
+}
+
+.cardTitle {
+  color: #251d19;
+  font-family: Cambria, Georgia, serif;
+  font-size: 1.12rem;
+  margin-bottom: 0.5rem;
+}
+
+.cardText {
+  color: #66564e;
+  line-height: 1.55;
+  margin: 0;
+}
+
+.checklist {
+  display: grid;
+  gap: 0.8rem;
+  margin-top: 1rem;
+}
+
+.checkItem {
+  align-items: start;
+  display: grid;
+  gap: 0.8rem;
+  grid-template-columns: 28px 1fr;
+}
+
+.checkBullet {
+  align-items: center;
+  background: #f0e6dc;
+  border: 1px solid #dbcabd;
+  border-radius: 6px;
+  color: #8a4427;
+  display: inline-flex;
+  font-weight: 900;
+  height: 28px;
+  justify-content: center;
+  width: 28px;
+}
+
+.checkTitle {
+  color: #2f2722;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.checkText {
+  color: #65554d;
+  margin: 0;
+}
+
+@media (max-width: 996px) {
+  .page {
+    padding-top: 1.2rem;
+  }
+
+  .hero,
+  .stageGrid,
+  .linkGrid,
+  .highlights {
+    grid-template-columns: 1fr;
+  }
+
+  .heroCopy,
+  .section,
+  .sectionAlt {
+    border-radius: 8px;
+    padding: 1.4rem;
+  }
+}
