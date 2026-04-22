@@ -44,6 +44,7 @@ En este apartado se presentan capturas de pantalla de la página Time.is, donde 
 
 ## Enlace video de junta directiva
 En este apartado se incluye el enlace al video que muestra la dramatización de una junta directiva, buscando la manera de solucionar los problemas evidenciados en el Restaurante Don Juan.
+https://youtu.be/exIcQXJgP4k
 
 ## Enlace a pitches individuales
 En este apartado se presentan los pitches individuales, en los que se proponen soluciones a problemáticas identificadas en los negocios entrevistados, demostrando creatividad y análisis por parte de cada uno de los integrantes. <br>
